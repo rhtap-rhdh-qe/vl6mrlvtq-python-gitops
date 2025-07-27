@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: vl6mrlvtq-python-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/vl6mrlvtq-python-gitops
